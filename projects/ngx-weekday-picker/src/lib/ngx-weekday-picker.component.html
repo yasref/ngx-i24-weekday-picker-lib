@@ -1,0 +1,20 @@
+<div class="days-container"
+     [ngStyle]="{
+      '--fontSize':fontSize,
+      '--dayWidth':dayWidth,
+      '--borderRadius':borderRadius,
+      '--borderWidth':borderWidth,
+
+      '--activeBorderColor':activeBorderColor,
+      '--inactiveBorderColor':inactiveBorderColor,
+      
+
+      '--activeColor':activeColor,
+      '--activeBgColor':activeBgColor,
+      '--inactiveColor':inactiveColor,
+      '--inactiveBgColor':inactiveBgColor
+    }">
+  <button *ngFor="let d of days"
+          (click)="dayClicked(d)"
+          [ngClass]=" {'active':d.isSelected,'disabled':d.isDisabled}">{{d.name}}</button>
+</div>
