@@ -103,6 +103,7 @@ export class AppComponent {
 | Name | Link | Description|
 | - | - | - |
 | ngx-i24-circular-progress | [Link](https://www.npmjs.com/package/ngx-i24-circular-progress) | Lightweight plugin to render simple, animated and retina optimized pie charts |
+| ngx-i24-color-picker      | [Link](https://www.npmjs.com/package/ngx-i24-color-picker)      | A lightweight plugin to pick a color.                                         |
 ## Copyright
 Copyright (c) 2022 Yaseen Alrefaee, contributors. Released under the MIT
 
