@@ -46,6 +46,7 @@
     "ng-packagr": "^14.0.0",
     "typescript": "~4.7.2"
   },
+  "license": "MIT",
   "keywords": [
     "ngx",
     "week",
