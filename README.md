@@ -1,6 +1,9 @@
 # NgxI24WeekdayPickerLib
 
- A lightweight plugin to a pick weekday.
+[![](https://img.shields.io/npm/v/ngx-weekday-picker)](https://www.npmjs.com/package/ngx-weekday-picker)
+[![](https://img.shields.io/npm/l/ngx-weekday-picker)](https://www.npmjs.com/package/ngx-weekday-picker)
+
+ >A lightweight plugin to a pick weekday.
  
 ## Features
 * highly customizable
@@ -102,16 +105,19 @@ export class AppComponent {
 ## Other Projects
 | Name | Link | Description|
 | - | - | - |
-| ngx-i24-circular-progress | [Link](https://www.npmjs.com/package/ngx-i24-circular-progress) | Lightweight plugin to render simple, animated and retina optimized pie charts |
+| ngx-i24-circular-progress | [Link](https://www.npmjs.com/package/ngx-i24-circular-progress) | A lightweight plugin to render a simple, animated circular progress bar.      |
+| ngx-i24-progress-bar      | [Link](https://www.npmjs.com/package/ngx-i24-progress-bar)      | A lightweight plugin to render a simple, animated progress bar.               |
+| ngx-weekday-picker        | [Link](https://www.npmjs.com/package/ngx-weekday-picker)        | Lightweight plugin to a pick weekday.                                         |
 | ngx-i24-color-picker      | [Link](https://www.npmjs.com/package/ngx-i24-color-picker)      | A lightweight plugin to pick a color.                                         |
+| ngx-i24-checkbox          | [Link](https://www.npmjs.com/package/ngx-i24-checkbox)      | A lightweight plugin to display a modern checkbox.                                |
 
-## Donation
+## Support
 
-- [![](https://raw.githubusercontent.com/yasref/ngx-i24-color-picker-lib/master/projects/demo/images/coffee.png)](https://www.buymeacoffee.com/yaseenref)
+[![](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/yaseenref)
 
 ## Copyright
 Copyright (c) 2022 Yaseen Alrefaee, contributors. Released under the MIT
-
+ 
 
 <!-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
